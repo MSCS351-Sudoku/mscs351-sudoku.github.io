@@ -1,0 +1,26 @@
+---
+layout: splash
+permalink: /
+hidden: true
+feature_row:
+  - image_path: /assets/references.png
+    title: "Poster References"
+    excerpt: "Peruse a full list of references used on our poster"
+    url: "/references/"
+    btn_class: "btn--primary"
+    btn_label: "Read Now"
+  - image_path: /assets/report.png
+    title: "Report"
+    excerpt: "Read the full report on our findings."
+    url: "/report.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Download Now"
+  - image_path: assets/samples.png
+    title: "Samples"
+    excerpt: "Try some sample puzzles or generate some or whatever we decide to put here"
+    url: "/samples/"
+    btn_class: "btn--primary"
+    btn_label: "Try now"
+---
+
+{% include feature_row %}
