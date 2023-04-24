@@ -28,7 +28,7 @@ url: "https://mscs351-sudoku.github.io/Public/" # the base hostname & protocol f
 #github_username:  mscs351-sudoku
 
 # Build settings
-#theme: minima
+repository: MSCS351-Sudoku/Public
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
