@@ -32,6 +32,7 @@ repository: MSCS351-Sudoku/Public
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 atom_feed:
   hide: true
@@ -46,6 +47,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+whitelist:
+  - jekyll-redirect-from
 
 
 

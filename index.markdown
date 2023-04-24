@@ -1,6 +1,8 @@
 ---
 layout: splash
 permalink: /
+redirect_from:
+  - /Public/
 hidden: true
 feature_row:
   - image_path: /assets/references.png
