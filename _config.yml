@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   All related content to the group project for UW-Stout's Spring 2023 MSCS351 class
   solving the 2008 COMAP problem on generating Sudokus.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mscs351-sudoku.github.io/Public/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mscs351-sudoku.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mscs351-sudoku
 
 # Build settings
