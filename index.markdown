@@ -19,8 +19,8 @@ feature_row:
     btn_label: "Download Now"
   - image_path: assets/samples.png
     title: "Samples"
-    excerpt: "Try some sample puzzles or generate some or whatever we decide to put here"
-    url: "/samples/"
+    excerpt: "Try some sample puzzles."
+    url: "/samples.pdf"
     btn_class: "btn--primary"
     btn_label: "Try now"
 ---
