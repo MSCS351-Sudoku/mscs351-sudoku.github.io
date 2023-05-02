@@ -11,7 +11,14 @@ For any attendees viewing this at MAA, this section will be finished by Tuesday 
 1. Boyer, Christian (2007). "Sudoku's French ancestors" (in French). (personal webpage). Archived from the original on October 10, 2007. Retrieved April 19th, 2023. [https://web.archive.org/web/20071010081626/http://cboyer.club.fr/multimagie/English/SudokuAncestors.htm](https://web.archive.org/web/20071010081626/http://cboyer.club.fr/multimagie/English/SudokuAncestors.htm​)
 1. Grossman, Lev (March 11, 2013). "The Answer Men". Time. New York. Archived from the original on March 1, 2013. Retrieved April 19th, 2023. [https://web.archive.org/web/20130301013815/http://www.time.com/time/magazine/article/0,9171,2137423,00.html](https://web.archive.org/web/20130301013815/http://www.time.com/time/magazine/article/0,9171,2137423,00.html)​
 1. Stuart, Andrews. SudokuWiki.org, Retrieved April 19th, 2023. [https://www.sudokuwiki.org/sudoku.htm](https://www.sudokuwiki.org/sudoku.htm)
-- [https://www.101computing.net/sudoku-generator-algorithm/​](https://www.101computing.net/sudoku-generator-algorithm/​)
-- [https://www.sudokuonline.io/tips/sudoku-x-wing](https://www.sudokuonline.io/tips/sudoku-x-wing)
-- [https://github.com/roukaour/sudoku​](https://github.com/roukaour/sudoku​)
-- [http://sudoku.org.uk/SolvingTechniques/Y-Wing.asp](http://sudoku.org.uk/SolvingTechniques/Y-Wing.asp)
+
+Figure References:
+
+1. sudokuonline.io. "Sudoku X-Wing Technique: When and How to Use". Appgeneration. Retrieved April 19, 2023 [https://www.sudokuonline.io/tips/sudoku-x-wing](https://www.sudokuonline.io/tips/sudoku-x-wing)
+2. Sudoku.org.uk. "Sudoku Solving Techniques". Sudoku.org.uk. Retrieved April 19, 2023. [http://sudoku.org.uk/SolvingTechniques/Y-Wing.asp](http://sudoku.org.uk/SolvingTechniques/Y-Wing.asp)
+
+Other Resources:
+
+- 101 Computing. "Sudoku Generating Algorithm - 101 Computing" 101 Computing. Retrieved April 5, 2023. [https://www.101computing.net/sudoku-generator-algorithm/​](https://www.101computing.net/sudoku-generator-algorithm/​)
+- Roukaour. "Sudoku". Roukaour. Retrieved April 13, 2023. [https://github.com/roukaour/sudoku​](https://github.com/roukaour/sudoku​)
+
