@@ -27,7 +27,7 @@ feature_row:
 
 <style type="text/css">
   .archive__item-teaser {
-    height: 10px;
+    height: 0px;
   }
 </style>
 
