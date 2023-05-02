@@ -25,4 +25,10 @@ feature_row:
     btn_label: "Try now"
 ---
 
+<style type="text/css">
+  .archive__item-teaser {
+    height: 10px;
+  }
+</style>
+
 {% include feature_row %}
