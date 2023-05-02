@@ -6,8 +6,8 @@ redirect_from:
 hidden: true
 feature_row:
   - image_path: /assets/references.png
-    title: "Poster References"
-    excerpt: "Peruse a full list of references used on our poster"
+    title: "Poster References & Addendum"
+    excerpt: "Peruse a full list of references used on our poster, and glance through the addendum."
     url: "/references/"
     btn_class: "btn--primary"
     btn_label: "Read Now"
